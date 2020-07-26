@@ -1,0 +1,121 @@
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\Result Management System.dll.config
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\Result Management System.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\Result Management System.pdb
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csc.exe
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csc.exe.config
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csc.rsp
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csi.exe
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csi.exe.config
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csi.rsp
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.AppContext.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Console.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\vbc.exe
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\vbc.exe.config
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\vbc.rsp
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\obj\Debug\Results Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\obj\Debug\Results Management System.csproj.CopyComplete
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\obj\Debug\Result Management System.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\obj\Debug\Result Management System.pdb
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\MySql.Data.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\Google.Protobuf.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\Renci.SshNet.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\BouncyCastle.Crypto.dll
+C:\Users\Rismy\Desktop\RMS (MySQL)\Result Management System\Result Management System\bin\MySql.Data.xml
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\Result Management System.dll.config
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\Result Management System.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\Result Management System.pdb
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csc.exe
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csc.exe.config
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csc.rsp
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csi.exe
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csi.exe.config
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\csi.rsp
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.AppContext.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Console.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\vbc.exe
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\vbc.exe.config
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\vbc.rsp
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\MySql.Data.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\Google.Protobuf.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\Renci.SshNet.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\BouncyCastle.Crypto.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\MySql.Data.xml
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\obj\Debug\Results Management System.csprojAssemblyReference.cache
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\obj\Debug\Results Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\obj\Debug\Results Management System.csproj.CopyComplete
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\obj\Debug\Result Management System.dll
+C:\Users\Rismy\Documents\RMS (MySQL)\Result Management System\Result Management System\obj\Debug\Result Management System.pdb
